@@ -16,7 +16,7 @@
 remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Gobbleminds - Scribbles and Rambles by Sri"
+title: "Scribbles and Rambles by Sri"
 description: "Philosophy | Technology | Human behaviour."
 baseurl: "./"
 url:  "https://gobbleminds.github.io"
