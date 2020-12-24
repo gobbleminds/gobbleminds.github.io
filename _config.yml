@@ -20,7 +20,7 @@ title: "Scribbles and Rambles by Sri"
 description: "Philosophy | Technology | Human behaviour."
 baseurl: "./"
 url:  "https://gobbleminds.github.io"
-logo: "/images/gobbleminds-logo_200x200.png" # path of site logo, e.g. "/assets/images/logo.png"
+#logo: "/images/gobbleminds-logo_200x200.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
