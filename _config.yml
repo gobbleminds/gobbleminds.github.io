@@ -20,7 +20,7 @@ title: "Gobbleminds - Scribbles and Rambles by Sri"
 description: "Philosophy | Technology | Human behaviour."
 baseurl: "./"
 url:  "https://gobbleminds.github.io"
-logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/images/gobbleminds-logo_200x200.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -53,7 +53,7 @@ paginate: 10
 paginate_path: /page:num/
 
 # Search
-search_full_content: false
+search_full_content: true
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
