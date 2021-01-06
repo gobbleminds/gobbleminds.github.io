@@ -19,7 +19,7 @@ locale: en-US
 title: "Thoughts, Scribbles and Rambles by Srikanth"
 description: "Life experience | Technology | Human behaviour | Philosophy"
 baseurl: "./"
-url:  "https://the-passionate-coder.github.io"
+url:  "https://gobbleminds.github.io"
 #logo: "/images/gobbleminds-logo_200x200.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
